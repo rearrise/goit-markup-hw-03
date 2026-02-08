@@ -58,6 +58,7 @@ a {
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #fff;
+  cursor: pointer;
   background-color: #4d5ae5;
 }
 
@@ -121,7 +122,11 @@ a {
 .contacts-link:focus {
   color: #404bbf;
 }
-
+.hero-btn:hover,
+.hero-btn:focus {
+  color: #fff;
+  background-color: #404bbf;
+}
 .portfolio-item {
   background-color: #fff;
 }
