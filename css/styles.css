@@ -283,6 +283,7 @@ img {
   margin-bottom: 32px;
 }
 .portfolio-text {
+  letter-spacing: 0.02em;
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
