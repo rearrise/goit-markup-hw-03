@@ -71,7 +71,6 @@ img {
 .header-nav {
   display: flex;
   align-items: center;
-  justify-content: space-between;
   flex-grow: 1;
   margin-right: 332px;
 }
@@ -84,6 +83,7 @@ img {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
+  margin-right: 76px;
 }
 .header-logo .logo-dark {
   color: #2e2f42;
@@ -156,7 +156,6 @@ img {
   letter-spacing: 0.04em;
   color: #fff;
   background-color: #4d5ae5;
-  margin-bottom: 96px;
   border: none;
 }
 /* #endregion */
